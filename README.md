@@ -7,14 +7,21 @@ The "echo server" can be set up to listen on any desired (tcp) port to simulate 
 
 ## Compiling and Running on Linux Shell :
 
-### Compiling:
+### Compile Command:
 > gcc -g Echo-Server.c -o sockets
 
 
-### Executing:
+### Execute Command:
 > ./sockets 12345
 
 Here 12345 is the Port Number.
 
-### Client Can connect by using following commands:
+### Client can connect by using following command:
 > telnet localhost 12345 
+
+
+TCP ECHO SERVER USING SOCKETS<br/>
+Developed By:<br/>
+[Prashant Shrivastava](http://www.linkedin.com/in/prashantdce19) <br/>
+[Pulkit Tanwar](http://www.pulkitme.com)<br/>
+Rishabh Agarwal<br/>
