@@ -1,10 +1,5 @@
 /*
 TCP ECHO SERVER USING SOCKETS
-
-BY:
-Prashant Shrivastava- DTU/2K12/CO/090
-Pulkit Tanwar- DTU/2K12/CO/92
-Rishabh Agarwal- DTU/2K12/CO/102
 */
 
 #include<stdio.h>
